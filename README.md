@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit Bakde</h1>
 <h3 align="center">A passionate Data Sciecne Enthusiast from India.</h3>
 
+
 - 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Deep Learning, MLops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitbakde99/Data-Science-Portfolio](https://github.com/amitbakde99/Data-Science-Portfolio)
+#- 👨‍💻 All of my projects are available at [https://github.com/amitbakde99/Data-Science-Portfolio](https://github.com/amitbakde99/Data-Science-Portfolio)
 
 - 💬 Ask me about **Data Science,**
 
