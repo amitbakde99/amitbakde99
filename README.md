@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Deep Learning, MLops**
 
-#- 👨‍💻 All of my projects are available at [https://github.com/amitbakde99/Data-Science-Portfolio](https://github.com/amitbakde99/Data-Science-Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/amitbakde99/Data-Science-Portfolio](https://github.com/amitbakde99/Data-Science-Portfolio)
 
-- 💬 Ask me about **Data Science,**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **amitbakde99@gmail.com**
 
