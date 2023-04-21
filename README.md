@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Bakde</h1>
-<h3 align="center">A passionate Data Sciecne Enthusiast from India.</h3>
+<h3 align="center">A passionate Data Sciecne Enthusiast.</h3>
 
 
 - 🔭 I’m currently working on **Machine Learning Projects**
